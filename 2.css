@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-family: 'Pacifico', cursive;
+}
+ul, li{
+	display: inline-block;
+	padding: 0;
+	margin: 0;
+}
+.header {
+	background-image: url("background.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	padding: 10px;
+}
+.menu{
+	margin-top: 8px;
+	
+}
+.menu_item{
+	margin: 0 57px;
+	
+}
+.menu_item a {
+	font-size: 22px;
+	font-weight: 700;
+	color: #000;
+}
+.inline{
+	display: inline-block;
+}
+.feedback{
+	background-color:#000000;
+	color: aliceblue;
+}
